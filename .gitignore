@@ -1,0 +1,21 @@
+# Unreal
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.VC.db
+*.VC.opendb
+*.sln
+
+# IDE
+.vs/
+.vscode/
+.idea/
+
+# Plugins (build artefacts)
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
+
+# Platform build outputs
+Saved/StagedBuilds/
+Saved/Cooked/
